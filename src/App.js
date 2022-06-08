@@ -8,7 +8,6 @@ const App = () => {
 
 	const handleCityChange = (event) => {
 		setCity(event.target.value);
-		console.log(city);
 	};
 
 	const setCityForWeather = (event) => {
