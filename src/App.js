@@ -16,7 +16,7 @@ const App = () => {
 	};
 
 	return (
-		<div className='text-white lg:w-screen mx-auto flex gap-8 flex-col items-center justify-center bg-no-repeat bg-hero bg-cover w-screen h-screen overflow-hidden'>
+		<div className='text-white lg:w-screen mx-autoz flex gap-8 flex-col items-center justify-center bg-no-repeat bg-hero bg-cover w-screen h-screen overflow-hidden'>
 			<CityInput
 				city={city}
 				handleCityChange={handleCityChange}
