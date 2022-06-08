@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'hero': 'url("https://images.pexels.com/photos/1424246/pexels-photo-1424246.jpeg")'
+        'hero': "url('/src/assets/pexels-photo-1424246-min.jpeg')"
       }
     },
   },
