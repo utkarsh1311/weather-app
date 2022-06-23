@@ -4,7 +4,7 @@ import WeatherCard from "./components/WeatherCard";
 
 const App = () => {
 	const [city, setCity] = useState("");
-	const [cityToShow, setCityToShow] = useState("London");
+	const [cityToShow, setCityToShow] = useState("Gorakhpur");
 
 	const handleCityChange = (event) => {
 		setCity(event.target.value);
