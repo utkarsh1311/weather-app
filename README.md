@@ -4,15 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run:\
 
+**Note: Before npm start, you might want to initialise your project with command `npm i`**\
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will reload automatically in browser when you make changes.\
+If there are any errors, you may directly see them in your console.
 
 ### `npm test`
 
@@ -27,8 +27,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.\
+Alternatively, you can also refer [this](https://blog.logrocket.com/8-ways-deploy-react-app-free/) for detailed information about development services.
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
@@ -39,11 +39,23 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## If you are new to react, do check these out
+
+[About React in 100 seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)\
+[Building a chat app with react](https://www.youtube.com/watch?v=zQyrwxMPm88)\
+[10 React hooks explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)\
+[React vs other JS frameworks](https://www.youtube.com/watch?v=cuHDQhDhvPE)
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn React form official React Documentation, check out the [React documentation](https://reactjs.org/).
+
+### React component Toolkits
+
+You can also know more about toolkits used alongside React [here](https://www.javascriptstuff.com/react-component-toolkits/).
 
 ### Code Splitting
 
